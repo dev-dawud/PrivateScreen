@@ -153,10 +153,14 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Private-Shoulder-Detection.cpp" />
+    <ClCompile Include="source\Private-Shoulder-Detection.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="detection.h" />
+    <ClInclude Include="source\include\detection.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Private-Shoulder-Detection.slnx" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

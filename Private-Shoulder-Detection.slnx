@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Private-Shoulder-Detection.vcxproj" Id="fa99f8b9-1e16-41d2-b80a-753d5a8afbe4" />
+</Solution>
